@@ -1,0 +1,25 @@
+C# Language
+
+Notes taken here
+
+- Inheritance
+
+-Opinion wise thought
+
+Inheritance is seen as a shortcut for more cleaner, shorter and understandable code.
+The idea is that you are able to create a good amount of classes but too much code isn't as efficent as it seems
+
+-----------------
+
+With inheritance you are able to create one class that can store properties
+from another class and not have to repeat that same property
+
+-----------------
+
+Inheritance uses any kind of method made and can create properties from different classes
+and you can include those properties from that method and transfer them into another one
+by calling the class itself.
+
+
+
+
