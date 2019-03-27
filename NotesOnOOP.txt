@@ -25,6 +25,8 @@ and you can include those properties from that other class and not repeat code.
 
 Some languages can use more then one Inheritance
 
+C# cannot hold more then two inheritance
+
 Ex. Human : GeneralObject, ColorEye These are two methods into one Method and
 those 2 are inheriting their properties into Humans
 
