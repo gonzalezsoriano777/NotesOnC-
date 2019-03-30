@@ -6,5 +6,19 @@ WIDTH should revolve around creating the structure of the board
 ...// This will be the "|" since each square tile will stores a char.
 --------------------------------------------------------------
 HEIGHT should be based of the characters used for the drawboard
-...// It will store the characters we will use, "X,Y"
-                            Like a Tic Tac Toe Board
+...// It will store the characters we will use, "-+"
+                    Like a Tic Tac Toe Board struct
+
+
+Steps..
+
+-Create a public clas that will store the height and width of the drawboard,
+- Create the Character Spacing.. Ex. " "
+
+
+- Create a Main where it
+    Also Calling the method used to creating the drawboard
+- As well as what the height and width and is going to be
+    The width will be 6, and Height will be 3
+
+Create the Method that will be used for the structure of the Board
