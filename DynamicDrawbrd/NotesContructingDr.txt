@@ -1,2 +1,10 @@
 // Notes
 
+Focus on the clear Idea...
+
+WIDTH should revolve around creating the structure of the board
+...// This will be the "|" since each square tile will stores a char.
+--------------------------------------------------------------
+HEIGHT should be based of the characters used for the drawboard
+...// It will store the characters we will use, "X,Y"
+                            Like a Tic Tac Toe Board
