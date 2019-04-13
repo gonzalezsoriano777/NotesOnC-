@@ -51,5 +51,19 @@ An often encountered cause of Space Complexity (Why you would need it) is becaus
 - Memory leaks occurs when a computer program incorrectly manages memory allocations in such
 a way that memory which is no longer needed is not released.
 
+- The amount of memory required larger than the memory available on a given system
+
+-
+
+-------------
+
+Final Verdict
+
+- Space Complexity is not as big of an issue as Time Complexity,
+Space can always be reused, whereas time cannot.
+
+
+
+
 
 
