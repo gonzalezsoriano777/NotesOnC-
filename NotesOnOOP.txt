@@ -16,6 +16,9 @@ from another class and not have to repeat that same property(Repetitive Code).
 
 -----------------
 
+One big class, with sub classes
+
+
 Inheritance can use any kind of method made and can use properties from different classes
 and you can include those properties from that other class and not repeat code.
 
@@ -33,6 +36,20 @@ those 2 are inheriting their properties into Humans
 -----------------
 
 Example is creating a blueprint that can have 3 classes and reduce the code by using Inheritance
+
+
+
+Space Complexity
+
+- The Idea of it
+
+Definition : The amount of memory needed or required by an algorithm to run to completion
+
+
+An often encountered cause of Space Complexity (Why you would need it) is because of [ Memory Leaks ]
+
+- Memory leaks occurs when a computer program incorrectly manages memory allocations in such
+a way that memory which is no longer needed is not released.
 
 
 

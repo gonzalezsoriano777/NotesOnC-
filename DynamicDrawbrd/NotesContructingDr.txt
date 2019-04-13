@@ -18,6 +18,8 @@ Steps..
 
 - Create a Main where it
     Also Calling the method used to creating the drawboard
+
+
 - As well as what the height and width and is going to be
     The width will be 6, and Height will be 3
 
